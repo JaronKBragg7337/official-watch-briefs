@@ -1,4 +1,4 @@
 # Latest briefs
 
-- Homeland (2026-09-24): [homeland/2026-09-24.md](homeland/2026-09-24.md)
+- Homeland (2026-09-25): [homeland/2026-09-25.md](homeland/2026-09-25.md)
 - Global (2026-09-17): [global/2026-09-17.md](global/2026-09-17.md)
